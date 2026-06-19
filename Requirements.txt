@@ -1,0 +1,6 @@
+rdkit
+pandas
+numpy
+scikit-learn
+chembl_webresource_client
+streamlit
